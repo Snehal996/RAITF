@@ -1,0 +1,4 @@
+cnn_dataset.pickle
+data/
+__pycache__/
+*.pyc
